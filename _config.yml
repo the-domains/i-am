@@ -1,0 +1,14 @@
+layout_spectrum: 0.7975305006839335
+typography_spectrum: 0.2251856040675193
+color:
+  brandStrength: 0.10573649546131492
+  lightness: 0.34048824035562575
+  saturation: 0.9667784064076841
+  rhythmicContrast: 0.8910891923587769
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: i am
