@@ -1,14 +1,26 @@
-layout_spectrum: 0.7975305006839335
-typography_spectrum: 0.2251856040675193
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7706093
 color:
-  brandStrength: 0.10573649546131492
-  lightness: 0.34048824035562575
-  saturation: 0.9667784064076841
-  rhythmicContrast: 0.8910891923587769
+  saturation: 1
+  brandStrength: 0.1057364954613149
+  lightness: 1
   brandColors:
     - '#E6E2AF'
     - '#A7A37E'
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+  rhythmicContrast: 1
+layout_spectrum: 0.8978494
 name: i am
