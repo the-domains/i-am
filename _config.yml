@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7706093
+typography_spectrum: 0.15612960956059396
 color:
-  saturation: 1
-  brandStrength: 0.1057364954613149
-  lightness: 1
+  saturation: 0.018361920723691583
+  brandStrength: 0.059746088460087776
+  lightness: 0.12196541903540492
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  rhythmicContrast: 1
-layout_spectrum: 0.8978494
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  rhythmicContrast: 0.9980720710009336
+layout_spectrum: 0.2659595673903823
 name: i am
